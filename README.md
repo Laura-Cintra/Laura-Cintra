@@ -11,7 +11,7 @@
 
 ### Meus conhecimentos:
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,typescript,html,css,java,py,cs,git,mysql"/>
+    <img src="https://skillicons.dev/icons?i=react,js,typescript,html,css,java,py,cs,git,mysql,figma"/>
   </a>
 
 #
