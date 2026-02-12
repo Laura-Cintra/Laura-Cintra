@@ -4,7 +4,7 @@
 
 ### Sobre mim:
 - 🌱 Tenho 19 anos.
-- 🖥️ Estudo **Análise e Desenvolvimento de Sistemas** na FIAP.
+- 🖥️ Formada em **Análise e Desenvolvimento de Sistemas** na FIAP.
 - 🎓 Técnica em **Informática para Internet** pela Etec Parque Belém.
 
 #
