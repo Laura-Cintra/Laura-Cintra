@@ -16,9 +16,9 @@
 
 #
 
-<div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laura-Cintra&show_icons=true&theme=react&bg_color=00000000&hide_border=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laura-Cintra&layout=compact&theme=react&bg_color=00000000&hide_border=true" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Laura-Cintra&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Laura-Cintra&theme=github_dark" />
 </div>
 
 #
