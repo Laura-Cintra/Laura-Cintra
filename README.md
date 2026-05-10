@@ -3,7 +3,7 @@
 <h3>🔹Desenvolvedora de software</h3>
 
 ### Sobre mim:
-- 🌱 Tenho 19 anos.
+- 🌱 Tenho 20 anos.
 - 🖥️ Formada em **Análise e Desenvolvimento de Sistemas** na FIAP.
 - 🎓 Técnica em **Informática para Internet** pela Etec Parque Belém.
 
